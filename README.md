@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I love make mods on video games!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
