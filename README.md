@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enamouur&show_icons=true&locale=en" alt="enamouur" /></p>
 
+<img src="https://raw.githubusercontent.com/EnAmouur/EnAmouur/output/snake.svg" alt="Snake animation" />
